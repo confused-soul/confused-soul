@@ -39,7 +39,7 @@ Hello there! 👋 I'm Md Yasir Khan, a passionate Engineer with a love for codin
 
 <h2 align="Center">📫 Let's Connect</h2>
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and learners. Feel free to reach out to me on [Twitter]([https://twitter.com/yourtwitterhandle](https://twitter.com/confusedxsoul)) or [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/md-yasir-khan-8b5947219/)).
+I'm always excited to connect with fellow developers, tech enthusiasts, and learners. Feel free to reach out to me on [Twitter]([https://twitter.com/confusedxsoul]) or [LinkedIn]([https://www.linkedin.com/in/md-yasir-khan-8b5947219/]).
 
 Let's learn, collaborate, and build amazing things together! 😄🚀
 
