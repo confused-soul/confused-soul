@@ -12,7 +12,7 @@ Hello there! 👋 I'm Md Yasir Khan, a passionate Engineer with a love for codin
 
 - 🔭 I’m currently working on building my software development skills more profound, where I'm currently learning Web Development.
 - 🌱 I’m constantly learning and exploring new technologies to expand my skillset.
-- 💬 Ask me about Web Development.
+- 💬 Ask me about Web Development & Machine learning
 - 📫 How to reach me: @mdyairkhan2003@gmail.com
 
 <hr>
