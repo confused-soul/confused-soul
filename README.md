@@ -25,3 +25,57 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confused-soul&show_icons=true&locale=en&layout=compact" alt="confused-soul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confused-soul&show_icons=true&locale=en" alt="confused-soul" /></p>
+
+
+# My Projects
+
+## JamiaGPT
+A Retrieval-Augmented Generation (RAG) Model ChatBot for Jamia Millia Islamia, leveraging machine learning and embeddings. The chatbot uses the Gemini API and FAISS for efficient vector search, and is deployed using Streamlit.
+- **Tags:** machine-learning, embeddings, gemini-api, faiss, streamlit, vector-database, retrieval-augmented-generation
+- **Language:** Python
+
+
+## Simple-Calculator
+A simple yet functional calculator with a temporary history and notes section, built using JavaScript.
+- **Tags:** javascript, calculator
+- **Language:** JavaScript
+
+## NeuroNexus
+Machine learning internship projects developed during my tenure at NeuroNexus, focusing on various machine learning techniques and applications.
+- **Tags:** machine-learning, internship
+- **Language:** Jupyter Notebook
+
+## MedHelp
+A comprehensive medical assistance website built using Django web framework. The site features a responsive front-end and incorporates supervised classification models deployed as FastAPIs to predict the probability of diabetes and breast cancer.
+- **Tags:** bootstrap, machine-learning, django, django-project, fastapi
+- **Language:** Jupyter Notebook
+
+## ML-Projects
+A compilation of machine learning models that I have worked on, covering various supervised learning techniques and model deployment strategies.
+- **Tags:** data-science, machine-learning, supervised-learning, classification, pickle, support-vector-machines, joblib
+- **Language:** Jupyter Notebook
+
+## BreastCancer_ML_API
+A breast cancer prediction model made available as a free public API using FastAPI. The model utilizes supervised learning techniques and support vector machines.
+- **Tags:** machine-learning, supervised-learning, support-vector-machines, fastapi
+- **Language:** Jupyter Notebook
+
+## Diabetes_ML_API
+A diabetes prediction model provided as a free public API using FastAPI. It employs supervised learning techniques and support vector machines.
+- **Tags:** machine-learning, supervised-learning, support-vector-machines, fastapi
+- **Language:** Python
+
+## Portfolio
+A personal portfolio website created using HTML, CSS, and JavaScript, showcasing my projects and professional experience.
+- **Tags:** javascript, css, html
+- **Language:** SCSS
+
+## Trioscope
+A project aimed at creating a cost-effective alternative to essential electronics lab equipment, including an oscilloscope, function generator, and multimeter, with web-based functionalities.
+- **Tags:** electronics, web-development
+
+## Gesture-Control-FingerPad
+A musical instrument project integrating Arduino electronic multi-controller hardware with Supercollider audio synthesis software to create a unique gesture-controlled instrument.
+- **Tags:** arduino, supercollider, electronics-engineering
+- **Language:** C++
+
